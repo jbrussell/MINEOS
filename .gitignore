@@ -2,3 +2,4 @@
 *.mat
 *.o
 *.a
+.DS_Store
